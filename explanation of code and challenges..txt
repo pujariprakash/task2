@@ -1,0 +1,28 @@
+Code Overview
+
+The program consists of two main functions:
+
+1.word_count(input_text): This function takes a string (input_text) as input and returns the count of words in the text.
+
+2.main(): This function handles user input, calls the word_count function, and displays the word count.
+
+Features
+
+1.Input Handling: Uses the input() function for user input with no strict restrictions on input type.
+
+2.Word Counting Logic: The word_count function utilizes the split() method for basic word counting.
+
+3.Output Display: Presents the word count in a clear and formatted manner.
+
+Challenges and Future Improvements
+
+1.Handling Empty Input: The program addresses empty input with error handling, displaying a user-friendly error message.
+
+2.Balancing Simplicity with Functionality: The current design emphasizes simplicity; future improvements could involve more advanced features.
+
+3.User Input Validation: Basic input validation is implemented; further improvements can enhance user input handling.
+
+Conclusion
+
+The Word Counter program provides a simple and effective solution for counting words in a given text. 
+Future improvements can be made based on evolving requirements and user feedback.
